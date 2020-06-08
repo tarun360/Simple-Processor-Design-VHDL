@@ -2,7 +2,7 @@
 
 Made by: Tarun Gupta (180001059) and Kartik Garg (180002027).
 
-Clock period is 10 ns. The inputs A and B are available for ONLY 1st clock-cycle, they are stored in 8 bit registers. After the 1st clock-cycle, the inputs are not available (made 0s).
+Clock period is 10 ns. The inputs A and B are available for ONLY 1st clock-cycle, during which they are stored in 8 bit registers. After the 1st clock-cycle, the inputs are not available (made 0s).
 
 Description of Files:              
 
